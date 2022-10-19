@@ -1,0 +1,8 @@
+<!DOCTYPE html>
+<html>
+    <style>
+        img{width: 1920px;height: 1080px;}
+    </style>
+    <img src="Gypie.jpg" alt="Gypie pic" style="float:right"; >
+
+</html>
