@@ -1,0 +1,8 @@
+<!DOCTYPE html>
+<link rel="stylesheet" href="Stylesheet.css"/>
+<html>
+<h3>You Fell For It!</h3>
+<img src="Gypie.jpg" alt="s">
+<p> </p>
+<button1 onclick="location.href = 'light bulb test.html';">go back</button1>
+</html>
