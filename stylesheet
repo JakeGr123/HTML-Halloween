@@ -1,0 +1,7 @@
+body {text-align: center; background-color: aquamarine;}
+h2 {font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; font-size: 50px; color: rgb(99, 87, 73); border: 10px;}
+p {color: rgb(99, 87, 73);}
+button { color: rgb(99, 87, 73); border: 5px; }
+img { text-align: center;}
+h3 {font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; font-size: 50px; color:rgb(99, 87, 73); border: 10px; border: 10px;}
+button1 {font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; font-size: 50px; color: rgb(99, 87, 73);text-align: center; border: 10px;}
