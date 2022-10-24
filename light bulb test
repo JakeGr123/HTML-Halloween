@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+    
+<link rel="stylesheet" href="Stylesheet.css"/>
+<body>
+
+<h2>Lightbulb of Life</h2>
+
+<p>This lightbulb creates Life </p>
+
+<p>The Buttons help you change lives with the BULB OF LIFE</p>
+
+<button onclick="location.href = 'fell for it.html';">Turn on the light</button>
+
+<img id="myImage" src="pic_bulboff.gif" style="width:100px">
+
+<button onclick="document.getElementById('myImage').src='pic_bulbon.gif'">Turn off the light</button>
+<h4>
+    Click below to view the doggy gallery
+</h4>
+<button5 onclick="location.href = 'Gallery.html';">below</button5>
+</body>
+</html>
